@@ -15,7 +15,7 @@ inputBuf:
 83 6A 88 DE 9a c3 54 9A
 
 
-##How to Compile and Execute
+## How to Compile and Execute
 -Must be in 32-bit Linux environment
 -SSH into a linux server (gl.umbc.edu) or use Docker or linux VM
 -Install NASM (The Netwide Assembler)
