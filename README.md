@@ -8,7 +8,7 @@ This program reads a list of bytes and converts each byte into its ASCII hexadec
 
 ### Input:
 An input buffer of:
-''asm
+'' asm
 inputBuf: 
   db  0x83,0x6A,0x88,0xDE,0x9A,0xC3,0x54,0x9A 
 ### Output:
@@ -23,7 +23,7 @@ inputBuf:
 
 ## On Linux (local or on SSH to gl.umbc.edu)
 
-''bash
+'' bash
 # Assemble 32-bit object file
 nasm -f elf32 hw11translate2Ascii.asm -o hw11translate2ascii.o
 
