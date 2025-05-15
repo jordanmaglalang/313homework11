@@ -26,9 +26,10 @@ inputBuf:
 
 ## On Linux (local or on SSH to gl.umbc.edu)
 
-'' bash
-# Assemble 32-bit object file
-nasm -f elf32 hw11translate2Ascii.asm -o hw11translate2ascii.o
+- **Assemble 32-bit object file
+```bash
+  nasm -f elf32 hw11translate2Ascii.asm -o hw11translate2ascii.o
+'''
 
 # Linker to produce executable
 ld -m elf_i386 hw11translate2ascii.o -o hw11translate2ascii
