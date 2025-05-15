@@ -1,3 +1,9 @@
+
+## AUTHORING: Authors: Jordan Maglalang
+
+## Affiliation: UMBC Class of 2027 CMSC 313
+
+## Date: 5/15/25
 # HW11: Translate bytes to ASCII Hex
 
 ## Description
