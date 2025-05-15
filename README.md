@@ -17,8 +17,11 @@ inputBuf:
 
 ## How to Compile and Execute
 -Must be in 32-bit Linux environment
+
 -SSH into a linux server (gl.umbc.edu) or use Docker or linux VM
+
 -Install NASM (The Netwide Assembler)
+
 -Use 'ld' or 'gcc' as a linker to create final executable
 
 ## On Linux (local or on SSH to gl.umbc.edu)
