@@ -23,7 +23,7 @@ inputBuf:
 
 
 ## How to Compile and Execute
--Must be in 32-bit Linux environment
+-Must be in 32-bit Linux environment (or 64-bit Linux with 32-bit support)
 
 -SSH into a linux server (gl.umbc.edu) or use Docker or linux VM
 
