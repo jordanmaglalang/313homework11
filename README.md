@@ -1,5 +1,6 @@
 
-## AUTHORING: Authors: Jordan Maglalang
+## AUTHORING:
+Jordan Maglalang
 
 ## Affiliation: UMBC Class of 2027 CMSC 313
 
